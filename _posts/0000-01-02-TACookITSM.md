@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to your new slide"
 ---
-my own text!
+- [ ] using markdown
 Use the left arrow to go back!
